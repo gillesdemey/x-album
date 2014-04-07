@@ -1,4 +1,12 @@
 x-album
 =======
 
-Polymer album component
+Polymer album component.
+
+## Install Dependencies
+
+`npm install && bower install`
+
+## Run
+
+`gulp`
