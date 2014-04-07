@@ -1,0 +1,27 @@
+{
+  "name": "polymer-album",
+  "version": "0.1.0",
+  "authors": [
+    "Gilles De Mey <gilles.de.mey@gmail.com>"
+  ],
+  "description": "Album cover and audio component",
+  "main": "song.js",
+  "keywords": [
+    "audio",
+    "music",
+    "album"
+  ],
+  "license": "MIT",
+  "homepage": "http://gilles.demey.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.2.2"
+  }
+}
