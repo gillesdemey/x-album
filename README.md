@@ -10,3 +10,7 @@ Polymer album component.
 ## Run
 
 `gulp`
+
+## Inspect
+
+Go to `http://localhost:9000`
