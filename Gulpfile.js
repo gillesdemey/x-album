@@ -3,7 +3,7 @@ var gulp    = require('gulp'),
 
 gulp.task('connect', function() {
   connect.server({
-    port: 9000
+    port: 9001
   });
 });
 
